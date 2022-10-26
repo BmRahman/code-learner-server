@@ -1,6 +1,6 @@
 [
     {
-        "id": "1",
+        "id": "01",
         "category_id": "01",
         "title": "Javascript",
         "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/480px-Unofficial_JavaScript_logo_2.svg.png",
@@ -10,7 +10,7 @@
         "price": "13.99"
     },
     {
-        "id": "2",
+        "id": "02",
         "category_id": "02",
         "title": "Python",
         "image_url": "https://prepinsta.com/wp-content/uploads/2020/07/python-removebg-preview.webp",
@@ -20,7 +20,7 @@
         "price": "13.99" 
     },
     {
-        "id": "3",
+        "id": "03",
         "category_id": "03",
         "title": "C++",
         "image_url": "https://preview.redd.it/31b2ii8hchi31.jpg?auto=webp&s=309fe75e96212cf42c4120ca5adedaef52c41e01",
@@ -30,7 +30,7 @@
         "price": "16.99" 
     },
     {
-        "id": "4",
+        "id": "04",
         "category_id": "04",
         "title": "PHP",
         "image_url": "https://pngimg.com/uploads/php/php_PNG10.png",
@@ -40,7 +40,7 @@
         "price": "15.99" 
     },
     {
-        "id": "5",
+        "id": "05",
         "category_id": "05",
         "title": "C#",
         "image_url": "https://cnglobal.com.au/wp-content/uploads/2021/09/csharp_original_logo_icon_146578.png",
@@ -50,7 +50,7 @@
         "price": "15.99"
     },
     {
-        "id": "6",
+        "id": "06",
         "category_id": "06",
         "title": "Java",
         "image_url": "https://www.svgrepo.com/show/303388/java-4-logo.svg",
