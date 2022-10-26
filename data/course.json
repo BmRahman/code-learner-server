@@ -1,0 +1,62 @@
+[
+    {
+        "id": "1",
+        "category_id": "01",
+        "title": "Javascript",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/480px-Unofficial_JavaScript_logo_2.svg.png",
+        "details": "JavaScript is among the most powerful and flexible programming languages of the web. It powers the dynamic behavior on most websites, including this one. You will learn programming fundamentals and basic object-oriented concepts using the latest JavaScript syntax. The concepts covered in these lessons lay the foundation for using JavaScript in any environment.",
+        "rating": { "number": 4.5, "badge": "Excellent" },
+        "mentor": "John Doe",
+        "price": "13.99"
+    },
+    {
+        "id": "2",
+        "category_id": "02",
+        "title": "Python",
+        "image_url": "https://prepinsta.com/wp-content/uploads/2020/07/python-removebg-preview.webp",
+        "details": "If youre looking for a programming language thats flexible and easy to read, try learning Python. Its one of the most popular languages today, and programming in Python is used for everything from web and software development to data science and analytics to quality assurance.",
+        "rating": { "number": 4.5, "badge": "Excellent" },
+        "mentor": "Damien Martin",
+        "price": "13.99" 
+    },
+    {
+        "id": "3",
+        "category_id": "03",
+        "title": "C++",
+        "image_url": "https://preview.redd.it/31b2ii8hchi31.jpg?auto=webp&s=309fe75e96212cf42c4120ca5adedaef52c41e01",
+        "details": "With its adaptability and fast rendering, youll find the C++ programming language used everywhere, from web browsers to game development and operating systems to science and machine learning tools. This course will help you learn C++ basics and give you hands-on experience to create your own projects and work with computer memory.",
+        "rating": { "number": 4.5, "badge": "Excellent" },
+        "mentor": "Mark Callaway",
+        "price": "16.99" 
+    },
+    {
+        "id": "4",
+        "category_id": "04",
+        "title": "PHP",
+        "image_url": "https://pngimg.com/uploads/php/php_PNG10.png",
+        "details": "PHP is a widely used server-side scripting language that has become increasingly fast and powerful through the years. You can also use it on the front-end since PHP can be embedded right into HTML. These features make learning PHP a great option for any web developer. In this course, youll work through PHP fundamental programming concepts and gain the skills necessary to develop programs in PHP.",
+        "rating": { "number": 4.5, "badge": "Excellent" },
+        "mentor": "Allison Becker",
+        "price": "15.99" 
+    },
+    {
+        "id": "5",
+        "category_id": "05",
+        "title": "C#",
+        "image_url": "https://cnglobal.com.au/wp-content/uploads/2021/09/csharp_original_logo_icon_146578.png",
+        "details": "The C# programming language offers flexible and comprehensive libraries that make it easy to work across operating systems. Thats why its widely used by companies like Microsoft and Stack Overflow. Whether you want to develop websites, apps, video games, or virtual reality, building your foundation is key. In this course, youll learn C# basics so you can become a more versatile programmer.",
+        "rating": { "number": 4.5, "badge": "Excellent" },
+        "mentor": "Benzamin Pavard",
+        "price": "15.99"
+    },
+    {
+        "id": "6",
+        "category_id": "06",
+        "title": "Java",
+        "image_url": "https://www.svgrepo.com/show/303388/java-4-logo.svg",
+        "details": "Popular for its versatility and ability to create a wide variety of applications, learning Java opens up your possibilities when coding. With it, youll be able to develop large systems, software, and mobile applications — and even create mobile apps for Android. Learn important Java coding fundamentals and practice your new skills with real-world projects.",
+        "rating": { "number": 4.5, "badge": "Excellent" },
+        "mentor": "Randy Orton",
+        "price": "12.99"
+    }
+]
